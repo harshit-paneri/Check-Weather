@@ -1,6 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
-import './script.js';
+// import getWeather from'./script.js';
 
 function App() {
   return (
